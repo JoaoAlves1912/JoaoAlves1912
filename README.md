@@ -43,6 +43,10 @@ Também curso **Análise e Desenvolvimento de Sistemas** pelo **Senac EAD**, ond
 Se quiser trocar experiências, conversar sobre projetos ou só bater um papo sobre tecnologia, é só me chamar! 😄  
 Sempre aberto a aprender com outros devs e compartilhar o que estou descobrindo nesse caminho.
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-alves1912/)
+- 📷 [Instagram](https://www.instagram.com/__joao.alves_?igsh=dTkyeDA2Zm50aG9r)
+- 📬 **joao.alves191201@gmail.com**
+
 ---
 
 > “A disciplina é a ponte entre objetivos e conquistas.” – Jim Rohn  
