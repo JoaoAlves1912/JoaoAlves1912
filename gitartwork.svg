@@ -1,0 +1,204 @@
+<svg width="823" height="148" xmlns="http://www.w3.org/2000/svg">
+<style>
+    :root {
+        --c0: rgba(27, 31, 35, 0.06);
+        --c1: #ff6b35;
+        --c2: #ff3e1d;
+        --c3: #e62e2e;
+        --c4: #cc0000;
+    }
+    .o, .o[data-level="0"] {
+        fill: var(--c0);
+        shape-rendering: geometricPrecision;
+        outline: 1px solid var(--c0);
+        outline-offset: -1px
+    }
+    .o[data-level="1"] { fill: var(--c1); outline: 1px solid var(--c0) }
+    .o[data-level="2"] { fill: var(--c2); outline: 1px solid var(--c0) }
+    .o[data-level="3"] { fill: var(--c3); outline: 1px solid var(--c0) }
+    .o[data-level="4"] { fill: var(--c4); outline: 1px solid var(--c0) }
+</style>
+<g transform="translate(15, 20)">
+    <!-- Letra J -->
+    <g transform="translate(0, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(16, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(32, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(48, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(64, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+
+    <!-- Letra O (primeira) -->
+    <g transform="translate(96, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(112, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(128, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(144, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="3" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+
+    <!-- Letra A -->
+    <g transform="translate(176, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(192, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(208, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(224, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(240, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="2" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+
+    <!-- Letra O (segunda) -->
+    <g transform="translate(272, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(288, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(304, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+    <g transform="translate(320, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="1" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+
+    <!-- Acento (~) -->
+    <g transform="translate(352, 0)">
+        <rect width="11" height="11" x="0" y="0" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="15" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="30" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="45" data-level="4" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="60" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="75" data-level="0" rx="2" ry="2" class="o"></rect>
+        <rect width="11" height="11" x="0" y="90" data-level="0" rx="2" ry="2" class="o"></rect>
+    </g>
+</g>
+<a href="https://github.com/jasineri/gitartwork"><text x="24" y="139" font-size="0.6em" fill="blue">Get your own gitartwork on jasineri/gitartwork</text></a>
+</svg>
