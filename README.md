@@ -33,8 +33,9 @@ Também curso **Análise e Desenvolvimento de Sistemas** pelo **Senac EAD**, ond
 
 ### 📊 Estatísticas
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical&hide_rank=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlves1912&layout=compact&theme=radical)
+
 
 ---
 
