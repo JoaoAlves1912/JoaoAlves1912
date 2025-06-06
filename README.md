@@ -33,8 +33,8 @@ Também curso **Análise e Desenvolvimento de Sistemas** pelo **Senac EAD**, ond
 
 ### 📊 Estatísticas
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErianVT&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErianVT&layout=compact&theme=radical)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlves1912&layout=compact&theme=radical)
 
 ---
 
