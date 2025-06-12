@@ -7,21 +7,13 @@ Com disciplina, consistência e café (muito café ☕), estou construindo meu c
 
 ---
 
-### 🚀 Em constante evolução...
-
-Atualmente aprendendo e praticando:
-
-- 🧱 HTML  
-- 🎨 CSS  
-- 💡 JavaScript  
-- ⚛️ React (em processo)  
-- 🐘 PHP (em processo)
-
-Também curso **Análise e Desenvolvimento de Sistemas** pelo **Senac EAD**, onde desenvolvi uma base sólida em lógica de programação e banco de dados.
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
+
+Em constante evolução...🚀
+
+**Atualmente aprendendo e praticando:**
+
+
 <div align="center">
   <!-- Linguagens -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
@@ -37,10 +29,21 @@ Também curso **Análise e Desenvolvimento de Sistemas** pelo **Senac EAD**, ond
 
 ---
 
+📚 Cursando **Análise e Desenvolvimento de Sistemas** pelo **Senac**  
+💡 Desenvolvendo base sólida em:  
+- Lógica de programação  
+- Banco de dados  
+- Desenvolvimento web
+  
+---
 ### 📊 Estatísticas
 
+<div align="center">
+  
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical&hide_rank=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlves1912&layout=compact&theme=radical)
+
+</div>
 
 
 ---
