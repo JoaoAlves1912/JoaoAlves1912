@@ -11,13 +11,6 @@
 </p>
 
 ---
-
-### 🚀 Sobre Mim
-
-Sou um desenvolvedor movido por desafios e pela busca constante da excelência técnica. Com base em **Curitiba**, minha trajetória na tecnologia é guiada pela premissa de que o aprendizado nunca estagna. 
-
-Graduado em **Análise e Desenvolvimento de Sistemas**, atualmente mergulho profundamente no ecossistema **Full Stack**. Acredito na combinação de disciplina rigorosa, consistência e, claro, um bom café para transformar ideias em código funcional e elegante.
-
 ### 🎓 Formação
 
 * 🎓 **Graduado** em Análise e Desenvolvimento de Sistemas
@@ -37,31 +30,22 @@ Graduado em **Análise e Desenvolvimento de Sistemas**, atualmente mergulho prof
 </div>
 
 ---
-
-### 📊 GitHub Ecosystem
+### 🚀 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://github.com/JoaoAlves1912">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlves1912&layout=compact&theme=radical&hide_border=false&hide=jupyter,html" height="180em" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoAlves1912&theme=radical&column=4&margin-w=15&margin-h=15" alt="Troféus" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAlves1912&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAlves1912&theme=radical" width="100%" alt="Resumo" />
 </div>
 
----
-
-### 🎓 Jornada Acadêmica
-
-| Instituição | Curso | Status |
-| :--- | :--- | :--- |
-| **Graduação** | Análise e Desenvolvimento de Sistemas | ✅ Concluído |
-| **Especialização** | Desenvolvimento Full Stack | 🚀 Em progresso |
-| **Bootcamps** | Lógica, SQL e Web Design | 💡 Aperfeiçoamento |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlves1912&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical&hide_border=true" height="180" />
+</div>
 
 ---
 
