@@ -18,11 +18,14 @@ Sou um desenvolvedor movido por desafios e pela busca constante da excelência t
 
 Graduado em **Análise e Desenvolvimento de Sistemas**, atualmente mergulho profundamente no ecossistema **Full Stack**. Acredito na combinação de disciplina rigorosa, consistência e, claro, um bom café para transformar ideias em código funcional e elegante.
 
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.
-- 📚 Especializando-me em **Desenvolvimento Full Stack**.
-- 🛠️ Focado em criar aplicações escaláveis e interfaces intuitivas.
-- 🎯 "Parar no básico nunca foi uma opção."
+### 🎓 Formação
 
+* 🎓 **Graduado** em Análise e Desenvolvimento de Sistemas
+* 📚 **Especializando-se** em Desenvolvimento Full Stack
+* 💡 **Base Sólida em:**
+  * 💻 Lógica de Programação & Algoritmos
+  * 🗄️ Arquitetura de Banco de Dados (SQL)
+  * 🌐 Desenvolvimento Web (Frontend & Backend)
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
@@ -65,18 +68,6 @@ Graduado em **Análise e Desenvolvimento de Sistemas**, atualmente mergulho prof
 ### 📫 Conecte-se Comigo
 
 Sempre aberto a colaborações em projetos open-source, discussões técnicas ou apenas um bom networking sobre o futuro da web.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-alves1912/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/__joao.alves_?igsh=dTkyeDA2Zm50aG9r" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:joao.alves191201@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
 ---
 
