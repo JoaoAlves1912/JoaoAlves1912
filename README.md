@@ -31,8 +31,8 @@ Em constante evolução...🚀
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical&hide_rank=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlves1912&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlves1912&layout=compact&theme=radical&hide_border=false" height="170" />
 </div>
 
 
