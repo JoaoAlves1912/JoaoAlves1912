@@ -15,7 +15,7 @@ Em constante evolução...🚀
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,git" />
   </a>
 </div>
 
