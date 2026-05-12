@@ -23,11 +23,11 @@
 
 ### 🛠️ Tech Stack & Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,git,mysql,github,vscode,bootstrap" />
-  <br />
-  <img src="https://img.shields.io/badge/Foco_Atual-Full_Stack_Development-FF5733?style=flat-square" />
-</div>
+🔥 **Principais Tecnologias:**
+<br />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,py,git,mysql,bootstrap" alt="Minhas Tecnologias" />
+</p>
 
 ---
 ### 🚀 Minhas Estatísticas
