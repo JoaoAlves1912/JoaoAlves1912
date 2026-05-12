@@ -13,18 +13,10 @@ Em constante evolução...🚀
 
 **Atualmente aprendendo e praticando:**
 
-
 <div align="center">
-  <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,git" />
+  </a>
 </div>
 
 ---
@@ -39,10 +31,8 @@ Em constante evolução...🚀
 ### 📊 Estatísticas
 
 <div align="center">
-  
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical&hide_rank=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlves1912&layout=compact&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAlves1912&show_icons=true&theme=radical&hide_rank=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlves1912&layout=compact&theme=radical" height="170" />
 </div>
 
 
